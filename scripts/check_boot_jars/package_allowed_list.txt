@@ -277,3 +277,4 @@ org\.ifaa\.android\.manager.*
 vendor\.lineage\..*
 vendor\.lineage\.health.*
 vendor\.lineage\.touch.*
+com\.nothing.*
